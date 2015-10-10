@@ -1,3 +1,9 @@
+## IMPORTANT - Guide
+
+All the necessary code for load and treating the data, and generating the final tidy data is included in "load_data.R"
+
+The "plot1.R", "plot2.R", "plot3.R" and "plot4.R" contain only the code necessary for generating the exploratory graphs.
+
 ## Introduction
 
 This assignment uses data from
